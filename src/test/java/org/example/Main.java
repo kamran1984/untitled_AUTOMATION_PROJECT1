@@ -43,7 +43,7 @@ public class Main {
         Assert.assertEquals(actualUrl,expected);
 
 
-//        Thread.sleep(1000);
+
 //          driver.navigate().back();
 
         String expected2 = "nameFirstAndLast";
